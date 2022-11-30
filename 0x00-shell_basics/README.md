@@ -1,1 +1,1 @@
-readme for this directory
+this dir contains Bourne again scripts
